@@ -1,6 +1,6 @@
 extends Node
 
-@export var mob_scene: PackedScene  # Assign this in the Inspector by dragging your Mob.tscn
+@export var mob_scene: PackedScene 
 var score = 0
 
 
